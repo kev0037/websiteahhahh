@@ -5,7 +5,7 @@ document.addEventListener('onPopupClose', function(e) {
 });
 
 function popup1() {
-    CreativaPopup.create('Feel free to DM me itsluciifero', 'Discord');
+    CreativaPopup.create('Feel free to DM me @raydongg', 'Discord');
 }
 
 function popup2() {
